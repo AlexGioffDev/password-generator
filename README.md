@@ -12,3 +12,7 @@ A **Secure Password Generator** built with **Qt** and **C++**. This application 
   - Special characters
 - Simple and intuitive user interface created with Qt.
 - Copy the generated password for immediate use.
+
+## SCREENSHOT
+
+![screen app](screen_app.png)

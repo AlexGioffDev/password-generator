@@ -5,7 +5,7 @@
 
 QT_BEGIN_NAMESPACE
 namespace Ui {
-class MainWindow;
+class PasswordGenerator;
 }
 QT_END_NAMESPACE
 
@@ -21,6 +21,6 @@ private slots:
     void on_GenerateButton_clicked();
 
 private:
-    Ui::MainWindow *ui;
+    Ui::PasswordGenerator *ui;
 };
 #endif // MAINWINDOW_H
